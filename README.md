@@ -4,7 +4,7 @@ This repository contains all 10 tasks completed for the Oasis Infobyte Security 
 
 ## Completed Tasks:
 
-1. [Basic Network Scanning with Nmap](./Task - 1/)
+1. [Basic Network Scanning with Nmap](./Task-1-Nmap-Network-Scan/)
 2. [Basic Firewall Configuration with UFW](./Task-2-UFW-Firewall/)
 3. [SQL Injection on DVWA (Low Security)](./Task-3-SQLi-DVWA/)
 4. [Report: Common Network Security Threats](./Task-4-Network-Threats-Report/)
