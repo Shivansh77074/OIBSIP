@@ -5,14 +5,14 @@ This repository contains all 10 tasks completed for the Oasis Infobyte Security 
 ## Completed Tasks:
 
 1. [Basic Network Scanning with Nmap](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%201)
-2. [Basic Firewall Configuration with UFW](./Task-2-UFW-Firewall/)
-3. [SQL Injection on DVWA (Low Security)](./Task-3-SQLi-DVWA/)
-4. [Report: Common Network Security Threats](./Task-4-Network-Threats-Report/)
-5. [Report: Social Engineering Attacks](./Task-5-Social-Engineering-Report/)
-6. [Report: Importance of Patch Management](./Task-6-Patch-Management/)
-7. [Vulnerability Scanning with Nikto](./Task-7-Nikto-Scan/)
-8. [Capture Network Traffic with Wireshark](./Task-8-Wireshark-Capture/)
-9. [Advanced SQLi Exploitation](./Task-9-Advanced-SQLi/)
-10. [Network Security Assessment](./Task-10-Network-Security-Assessment/)
+2. [Basic Firewall Configuration with UFW](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%202)
+3. [SQL Injection on DVWA (Low Security)](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%203)
+4. [Report: Common Network Security Threats](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%204)
+5. [Report: Social Engineering Attacks](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%205)
+6. [Report: Importance of Patch Management](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%206)
+7. [Vulnerability Scanning with Nikto](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%207)
+8. [Capture Network Traffic with Wireshark](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%208)
+9. [Advanced SQLi Exploitation](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%209)
+10. [Network Security Assessment](https://github.com/Shivansh77074/OIBSIP/tree/main/Task%20-%2010)
 
 > ⚠️ Each folder includes code/scripts, screenshots, reports, and video links where applicable.
