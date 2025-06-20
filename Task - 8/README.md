@@ -1,5 +1,6 @@
 
 # 🕵️‍♂️ Task 8: Capture Network Traffic with Wireshark
+---
 
 ## 📌 Objective
 
@@ -59,6 +60,14 @@ The following important packets were captured during the session:
 
 - `wireshark_capture.pcap` – Saved capture file containing HTTP traffic.
 - `README.md` – Documentation of the task and analysis.
+
+---
+
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/BHUvWxWfbjk/0.jpg)](https://youtu.be/BHUvWxWfbjk)
+
+🔗 [Click here to watch the video on YouTube](https://youtu.be/BHUvWxWfbjk)
 
 ---
 
