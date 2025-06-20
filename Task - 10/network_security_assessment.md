@@ -101,7 +101,7 @@ This network security assessment revealed a mostly secure environment with limit
 ---
 
 
-## 🎬 Demo Video
+## 🎬 Demo Video (Wireshark)
 
 [![Watch the demo](https://img.youtube.com/vi/wrM4zC31YE4/0.jpg)](https://youtu.be/wrM4zC31YE4)
 
