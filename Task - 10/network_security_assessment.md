@@ -88,3 +88,21 @@ nmap -sS -sV -O -oN nmap_results.txt 192.168.1.19
 This network security assessment revealed a mostly secure environment with limited services exposed. However, the lack of encryption in captured traffic and the publicly visible Apache service pose potential vulnerabilities. Adopting best practices like TLS encryption and regular service updates would further strengthen the network’s security posture.
 
 ---
+
+
+
+## 🎬 Demo Video (Nmap)
+
+[![Watch the demo](https://img.youtube.com/vi/6nuHNmiA0BU/0.jpg)](https://youtu.be/6nuHNmiA0BU)
+
+🔗 [Click here to watch the video on YouTube](https://youtu.be/6nuHNmiA0BU)
+
+
+---
+
+
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/wrM4zC31YE4/0.jpg)](https://youtu.be/wrM4zC31YE4)
+
+🔗 [Click here to watch the video on YouTube](https://youtu.be/wrM4zC31YE4)
