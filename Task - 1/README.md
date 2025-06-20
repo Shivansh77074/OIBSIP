@@ -18,7 +18,7 @@ Perform a network scan using **Nmap** to identify open ports, running services, 
 
 🔗 [Click here to watch the video on YouTube](https://youtu.be/GZys-XZ-h64)
 
-
+---
 
 ## 🧪 Command Executed
 ```bash
