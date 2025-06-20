@@ -14,6 +14,14 @@ Demonstrate a successful SQL Injection attack on the DVWA application and explai
 
 ---
 
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/a0sOqOdlbpU/0.jpg)](https://youtu.be/a0sOqOdlbpU)
+
+🔗 [Click here to watch the video on YouTube](https://youtu.be/a0sOqOdlbpU)
+
+---
+
 ## 💥 Exploit Details
 
 ### 🔓 Injection Point
@@ -24,3 +32,4 @@ The `User ID` input field is vulnerable, as it accepts user-controlled input dir
 
 ```sql
 1 OR 1=1 UNION SELECT user, password FROM users#
+
