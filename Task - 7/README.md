@@ -1,17 +1,21 @@
 # 🔍 Nikto Vulnerability Scan Report
+---
 
 ## 🛠 Tool Used
 
 - **Nikto v2.5.0**
+---
 
 ## 🎯 Target Information
 
 - **Host:** 127.0.0.1 (Local DVWA server)
 - **Port:** 80
+---
 
 ## 🧪 Scan Summary
 
 The Nikto scan against the DVWA instance running locally on port 80 revealed several potential vulnerabilities and insecure configurations:
+---
 
 ### ⚠️ Key Findings
 
@@ -38,6 +42,7 @@ The Nikto scan against the DVWA instance running locally on port 80 revealed sev
      - `/assets/mobirise/css/meta.php`
      - `/shell`, `/login.cgi`, etc.
    - Some paths are related to remote command execution vulnerabilities on D-Link devices.
+---
 
 ## 📌 Risk Implications
 
@@ -46,6 +51,7 @@ The Nikto scan against the DVWA instance running locally on port 80 revealed sev
 - **Unauthorized File Access:** Malicious file manager scripts present severe RCE/file disclosure risks.
 - **Missing Headers:** Increases susceptibility to client-side attacks.
 
+---
 ## ✅ Recommendations
 
 - Remove or secure test/debug files like `phpinfo.php`.
@@ -56,11 +62,18 @@ The Nikto scan against the DVWA instance running locally on port 80 revealed sev
 - Apply strict file permission and input validation rules.
 - Regularly audit and harden the server.
 
+---
 ## 📂 Included Files
 
 - `Nikto_scan_results.txt`: Full output of the scan.
 - `README.md`: Analysis and mitigation suggestions.
 
 ---
+## 🎬 Demo Video
 
+[![Watch the demo](https://img.youtube.com/vi/CZpXKjzhnyI/0.jpg)](https://youtu.be/CZpXKjzhnyI)
+
+🔗 [Click here to watch the video on YouTube](https://youtu.be/CZpXKjzhnyI)
+
+---
 **⚠️ Legal Notice:** This scan was conducted on a local test environment (DVWA) for educational purposes only. Never scan systems you don’t own or have explicit permission to test.
