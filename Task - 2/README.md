@@ -1,5 +1,5 @@
 # UFW Configuration
-
+---
 ## Objective
 
 The goal is to set up a basic firewall using UFW (Uncomplicated Firewall) on a Linux system. We configure the firewall to:
